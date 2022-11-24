@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTextFileDelaCruz", "CreateTextFileDelaCruz.csproj", "{61D2257D-18E6-4636-82FD-DEA3F4D58599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D2257D-18E6-4636-82FD-DEA3F4D58599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D2257D-18E6-4636-82FD-DEA3F4D58599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D2257D-18E6-4636-82FD-DEA3F4D58599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D2257D-18E6-4636-82FD-DEA3F4D58599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9238FF9D-2E2E-45DF-865E-AE2B20F2F1C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\bin\Debug\CreateTextFileDelaCruz.exe.config
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\bin\Debug\CreateTextFileDelaCruz.exe
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\bin\Debug\CreateTextFileDelaCruz.pdb
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.exe
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.pdb
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\CreateTextFileDelaCruz\obj\Debug\CreateTextFileDelaCruz.FrmOpenTextFile.resources
